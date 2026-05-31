@@ -4,7 +4,7 @@ public class Weather {
         if (temperature > 30) {
             return "Hot";
         } else if (temperature < 10) {
-            return "Cold";  // BUG: should be "Cold"
+            return "Cold";
         } else {
             return "Mild";
         }
