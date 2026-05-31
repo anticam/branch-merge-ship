@@ -34,4 +34,4 @@ This repo contains three Java files, each with an intentional bug. As you work t
 
 #### License
 
-MIT — see LICENSE file for details.
+MIT — see LICENSE file for details.Small fix
