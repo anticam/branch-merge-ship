@@ -25,6 +25,13 @@ This repo contains three Java files, each with an intentional bug. As you work t
    ```
 3. Follow the course lessons to fix each bug
 
+#### How to install?
+
+See getting started section.
+
+#### How to use?
+
+See getting started section.
 #### Course Lessons That Use This Repo
 
 - Lesson 3.3 — Fork and clone this repo
