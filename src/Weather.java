@@ -2,9 +2,9 @@ public class Weather {
 
     public static String describe(int temperature) {
         if (temperature > 30) {
-            return "Hot";
+            return "Hot"; // Should be hot
         } else if (temperature < 10) {
-            return "Cold";
+            return "Cold";  // Should be cold
         } else {
             return "Mild";
         }
